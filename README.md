@@ -6,7 +6,7 @@ If you choose a text, so you can convert it:
 # to an ascii code
   *the ascii code is a list of numbers with no space between each code
   Like:  
-         input : "AAA"
+         Input : "AAA"
          Output: "656565"
 
 # to a binary code as the next:
