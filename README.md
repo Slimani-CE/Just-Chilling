@@ -6,6 +6,7 @@ If you choose a text, so you can convert it:
 # to an ascii code
   *the ascii code is a list of numbers with no space between each code
   Like:  
+
          Input : "AAA"
          Output: "656565"
 
